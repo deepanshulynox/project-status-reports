@@ -15,6 +15,12 @@ Automated Project Status Report Generator pulls data from project management too
 
 ---
 
+## 📊 Workflow Diagram
+
+![Project Status Reports Workflow](assets/workflow.png)
+
+---
+
 ## ✨ Key Features
 
 - ✅ **Multi-Platform Integration** - JIRA, ClickUp, Asana, Monday.com
